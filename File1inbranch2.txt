@@ -1,3 +1,2 @@
 This is file 1 in branch2
-
---inbranch4
+ master
