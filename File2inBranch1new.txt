@@ -1,3 +1,2 @@
 This is new file in branch1_new
-
---changes in branch2
+ master
