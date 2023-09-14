@@ -1,3 +1,5 @@
 This is file2 in branch1
 
 --modified file in branch1
+
+--modified 2nd time
